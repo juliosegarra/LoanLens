@@ -68,7 +68,7 @@ $(function () {
     const slider = $("#slider-interest").slider({
         range: "min",
         value: 10.5,
-        min: 0.0,
+        min: 0.1,
         max: 20,
         slide: function (event, ui) {
             $("#interest").val(ui.value);
