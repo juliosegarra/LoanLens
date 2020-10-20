@@ -1,6 +1,6 @@
 ﻿# Welcome to LoanLens!
 
-Welcome to **LoanLens**, your personal mortgage calculator. This application was a group effort and I would like to start by introducing the team.
+Welcome to **LoanLens**, your personal mortgage calculator.
 
 # About Me
 
@@ -33,4 +33,4 @@ Welcome to **LoanLens**, your personal mortgage calculator. This application was
 **Donut Graph**
 
 > The donut graph is a simple way to show how much of your total payment owned is principal and how much is interest.
-> The graph is a JavaScript plugin named Morris.
+> The graph is a JavaScript plugin named Morris.js.
