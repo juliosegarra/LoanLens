@@ -1,13 +1,5 @@
 ﻿section {
-  background-image: linear-gradient(
-    to right,
-    #cdfaae,
-    #a0d874,
-    #66ba6b,
-    #579f5c,
-    #396d3d,
-    #315736
-  );
+  background-image: linear-gradient(to right, #579f5c, #396d3d);
 }
 .background {
   background-image: linear-gradient(
