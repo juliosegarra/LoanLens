@@ -6,7 +6,7 @@ Welcome to **LoanLens**, your personal mortgage calculator.
 
 - **[Julio Segarra](https://www.juliosegarra.com)** - Developer
 
-> I'm a web developer currently residing in Connecticut, United States. My focus is on full-stack development, building front-to-back solutions for clients and businesses of all sizes. I can effectively communicate with business partners to help bring practical software to life that will have an immediate impact for your organization. Have a look at my [projects](https://github.com/juliosegarra) below to get a better idea of my skill set.
+>I'm a technology professional currently residing in Connecticut, United States. My interest is in web development and facilitating technology solutions for clients and businesses of all sizes.
 
 ## The Application
 
