@@ -6,7 +6,7 @@ Welcome to **LoanLens**, your personal mortgage calculator.
 
 - **[Julio Segarra](https://www.juliosegarra.com)** - Developer
 
->I'm a technology professional currently residing in Connecticut, United States. My interest is in web development and facilitating technology solutions for clients and businesses of all sizes.
+> I'm a technology professional currently residing in Connecticut, United States. My interests are in web development and facilitating technology solutions for clients and businesses of all sizes.
 
 ## The Application
 
